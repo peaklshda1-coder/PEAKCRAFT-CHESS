@@ -1,0 +1,6 @@
+{
+  "name": "PeakCraft Chess",
+  "description": "Strategy Reimagined. A premium, client-side, offline-capable chess application by PeakCraft Innovations Limited.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
